@@ -1,0 +1,53 @@
+.before {
+  float: left;
+  width: 30%;
+  background-color: #ccf5ff;
+  padding-bottom: 100px;
+}
+
+.during {
+  float: left;
+  width: 30%;
+  background-color: white;
+}
+
+.after {
+  float: left;
+  width: 40%;
+  background-color: #006680;
+  padding-bottom: 9px;
+  color: white;
+}
+
+img {
+  display: block;
+  width: 80%;
+  margin: auto;
+}
+
+h1,h2,h3 {
+  text-align: center;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.header {
+  background-color: #006680;
+  color: #ccf5ff;
+  padding: 50px;
+}
+
+body{
+  margin: 0;
+}
+
+h1 {
+  font-size: 3.5em;
+  font-family: fantasy;
+}
+
+h3 {
+  font-family: sans-serif;
+}
