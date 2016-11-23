@@ -11,7 +11,7 @@ HTML, CSS, Git, Github
 *[Epicodus](http://epicodus.com) Intro to Programming Week 1 Pair Project with Addison Nishijima: Create an interior decorator site with columns for before/during/after to practice CSS page layout with floats.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk1-AnimalShelter)
+* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk1-Snowflowers)
 * _OR_
 * Clone directory
 * Open index.html in your favorite browser
