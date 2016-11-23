@@ -1,18 +1,19 @@
-# :snowflake: [Snowflowers Design](http://karenfreemansmith.github.io/snowflowers) :cyclone:
+# Snowflowers (Interior Design Website)
+Version 0.0.1: August 3, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io) and [Addison Nishijima](https://github.com/AddisonNishijima)
 
-__Version 1.0.0: August 3, 2016__
-#### by [Karen Freeman-Smith](http://karenfreemansmith.github.io) and [Addison Nishijima](https://github.com/AddisonNishijima)
+### Technologies Used
+HTML, CSS, Git, Github
 
-### Description
-__*Interior decorator website to practice using css to layout columns and images.*__
+![screenshot of project running](screenshot.png)
 
-## Technologies Used
-HTML, CSS
+## Description
+*[Epicodus](http://epicodus.com) Intro to Programming Week 1 Pair Project with Addison Nishijima: Create an interior decorator site with columns for before/during/after to practice CSS page layout with floats.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk1-AnimalShelter)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
