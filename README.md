@@ -24,5 +24,4 @@ For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 
 ## Legal
 *Licensed under the GNU General Public License v3.0*
-
-Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io)_ All Rights Reserved.
+Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io) & [Addison Nishijima](https://github.com/AddisonNishijima)_ All Rights Reserved.
